@@ -14,5 +14,5 @@ Possile generation with k!
 
 Algorithms 1 and 2 are an application of the theorem of combination with repeation.
 
-Algorithms 3 an application of my demonstration of weakly increasing(combination repeation).
+Algorithms 3 an application of my demonstration of weakly increasing(combination repeation) by enumeration.
 
